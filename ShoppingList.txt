@@ -8,4 +8,4 @@ Carrots
 Cereal
 Cucumbers
 Eggplants
-Walnuts
+English Walnuts
