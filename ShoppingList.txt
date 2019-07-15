@@ -6,9 +6,9 @@ Bananas
 Cherries
 Carrots
 Cereal
+Porridge oats
 Cucumbers
 Eggplants
-English Walnuts
 Garbanzo Beans
 Avocado
 Juice
@@ -16,6 +16,7 @@ Walnuts
 Cranberries
 Chocolate
 Blueberries
-Blue Bananas
+Green Bananas
 Mangos
 Lychee
+Blueberries
