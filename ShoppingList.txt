@@ -9,7 +9,7 @@ Cereal
 Cucumbers
 Eggplants
 English Walnuts
-Garbanzo Beans
+Lady Fingers
 Avocado
 Juice
 Walnuts
@@ -19,3 +19,4 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Milk
