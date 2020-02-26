@@ -7,9 +7,7 @@ Cherries
 Carrots
 Cereal
 Cucumbers
-Eggplants
 English Walnuts
-Garbanzo Beans
 Avocado
 Juice
 Walnuts
@@ -19,3 +17,5 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Ice Cream
+Candy
