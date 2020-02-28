@@ -7,7 +7,7 @@ Cherries
 Carrots
 Cereal
 Cucumbers
-Eggplants
+Aubergines
 English Walnuts
 Garbanzo Beans
 Avocado
@@ -17,5 +17,6 @@ Cranberries
 Chocolate
 Blueberries
 Blue Bananas
-Mangos
+Mangoes
 Lychee
+Pineapples
