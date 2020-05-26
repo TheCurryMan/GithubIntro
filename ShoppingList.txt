@@ -10,7 +10,7 @@ Cucumbers
 Eggplants
 English Walnuts
 Garbanzo Beans
-Avocado
+Avocados
 Juice
 Walnuts
 Cranberries
@@ -19,3 +19,7 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Potatoes
+Guavas
+Pineapples
+Smoothies
