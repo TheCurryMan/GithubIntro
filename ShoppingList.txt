@@ -18,4 +18,5 @@ Chocolate
 Blueberries
 Blue Bananas
 Mangos
-Lychee
+Watermelon
+Zebrafruit
