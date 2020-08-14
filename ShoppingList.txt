@@ -1,4 +1,5 @@
 Shopping List:
+fruits
 
 Apples
 Oranges
