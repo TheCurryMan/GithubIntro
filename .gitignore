@@ -2,6 +2,8 @@
 
 *.txt
 !apples.txt
+!1.txt
+!2.txt
 
 # This is a comment
 # This is another comment
