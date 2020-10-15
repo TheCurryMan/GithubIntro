@@ -2,8 +2,6 @@ Shopping List:
 
 Apples
 Oranges
-Bananas
-Cherries
 Carrots
 Cereal
 Cucumbers
@@ -11,6 +9,7 @@ Eggplants
 English Walnuts
 Lady Fingers
 Avocado
+Dairy Milk Chocolate
 Juice
 Walnuts
 Cranberries
