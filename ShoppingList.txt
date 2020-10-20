@@ -1,4 +1,4 @@
-Shopping List:
+My Shopping List:
 
 Apples
 Oranges
@@ -7,7 +7,6 @@ Cherries
 Carrots
 Cereal
 Cucumbers
-Eggplants
 English Walnuts
 Garbanzo Beans
 Avocado
@@ -24,3 +23,5 @@ Garlic Bread
 White Butter
 Raisins
 Kiwis
+All purpose flour
+The list is done :)
