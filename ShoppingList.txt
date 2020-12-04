@@ -21,4 +21,3 @@ Mangos
 Lychee
 Sweet potato
 Beans
-Red pepper
