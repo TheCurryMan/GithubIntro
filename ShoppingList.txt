@@ -19,3 +19,6 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Arroz
+Papa
+Yuca
