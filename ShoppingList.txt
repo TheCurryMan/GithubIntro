@@ -9,16 +9,7 @@ Cereal
 Cucumbers
 Eggplants
 English Walnuts
-Garbanzo Beans
-Avocado
-Juice
-Walnuts
-Cranberries
-Chocolate
-Blueberries
-Blue Bananas
-Mangos
-Lychee
-Arroz
-Papa
-Yuca
+Nuggets
+Helado
+Papitas francesas
+Salsa de tomate
