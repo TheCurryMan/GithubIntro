@@ -19,3 +19,6 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Fruit Juice
+Turkish Delight
+Coca Cola
