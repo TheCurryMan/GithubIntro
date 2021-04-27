@@ -1,5 +1,6 @@
 Shopping List:
 
+Green AND Blue bananas
 Apples
 Oranges
 Bananas
@@ -19,3 +20,4 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Greek Yogurt
