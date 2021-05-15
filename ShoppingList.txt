@@ -14,8 +14,13 @@ Avocado
 Juice
 Walnuts
 Cranberries
-Chocolate
-Blueberries
-Blue Bananas
-Mangos
-Lychee
+CHICKEN
+ICE CREAM
+CHOCOLATE
+MILK
+JUICE
+LEMON
+TURKEY
+BEEF
+M&Ms
+BREAD
