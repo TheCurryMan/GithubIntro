@@ -5,7 +5,7 @@ Oranges
 Bananas
 Cherries
 Carrots
-Cereal
+Cereals
 Cucumbers
 Eggplants
 English Walnuts
@@ -19,3 +19,4 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Strawberries
