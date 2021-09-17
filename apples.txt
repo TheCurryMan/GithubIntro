@@ -1,2 +1,6 @@
 Fuji
 Gala
+Red 
+Green
+Yellow
+Darkred
