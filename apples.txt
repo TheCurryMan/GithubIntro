@@ -1,2 +1,4 @@
 Fuji
 Gala
+Red
+Green
