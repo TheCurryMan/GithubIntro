@@ -2,12 +2,12 @@
 id: l8t8m
 name: test
 file_version: 1.0.2
-app_version: 0.7.0-0
+app_version: 0.7.0-1
 file_blobs:
   apples.txt: 91bd3fa445125323ac3764b7a2ee8ad37bee0575
 ---
 
-test
+test change
 
 <br/>
 
