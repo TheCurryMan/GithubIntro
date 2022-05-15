@@ -1,7 +1,7 @@
 Shopping List:
 
 Apples
-Oranges
+orange
 Bananas
 Cherries
 Carrots
@@ -19,3 +19,4 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+egg
