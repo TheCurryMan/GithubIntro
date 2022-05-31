@@ -1,11 +1,10 @@
 Shopping List:
 
-Apples
+green Apples
 Oranges
 Bananas
 Cherries
 Carrots
-Cereal
 Cucumbers
 Eggplants
 English Walnuts
@@ -19,3 +18,5 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+chicken
+lamb
