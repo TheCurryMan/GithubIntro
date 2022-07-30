@@ -8,11 +8,11 @@ Carrots
 Cereal
 Cucumbers
 Eggplants
-English Walnuts
+English Walnuts (allergic)
 Garbanzo Beans
-Avocado
+Avocado (allergic)
 Juice
-Walnuts
+Walnuts (allergic)
 Cranberries
 Chocolate
 Blueberries
