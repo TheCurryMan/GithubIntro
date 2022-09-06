@@ -1,18 +1,18 @@
 Shopping List:
 
-Apples
-Oranges
-Bananas
-Cherries
-Carrots
-Cucumbers
-English Walnuts
-Garbanzo Beans
-Avocado
-Juice
-Walnuts
-Cranberries
-Blueberries
-Blue Bananas
-Mangos
-Lychee
+1.Apples
+2.Oranges
+3.Bananas
+4.Cherries
+5.Carrots
+6.Cucumbers
+7.English Walnuts
+8.Garbanzo Beans
+9.Avocado
+10.Juice
+11.Walnuts
+12.Cranberries
+13.Blueberries
+14.Blue Bananas
+15.Mangos
+16.Lychee
