@@ -11,7 +11,7 @@ Eggplants
 English Walnuts
 Garbanzo Beans
 Avocado
-Juice
+juice
 Walnuts
 Cranberries
 Chocolate
@@ -19,3 +19,4 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Tomatoe
