@@ -15,4 +15,6 @@ Juice
 Walnuts
 obst
 bananas
-good
+not good
+great
+rice and cheese
