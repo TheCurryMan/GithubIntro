@@ -13,9 +13,6 @@ Garbanzo Beans
 Avocado
 Juice
 Walnuts
-Cranberries
-Chocolate
-Blueberries
-Blue Bananas
-Mangos
-Lychee
+obst
+bananas
+good
