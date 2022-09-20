@@ -13,9 +13,8 @@ Garbanzo Beans
 Avocado
 Juice
 Walnuts
-Cranberries
-Chocolate
-Blueberries
-Blue Bananas
-Mangos
-Lychee
+obst
+bananas
+not good
+great
+rice and cheese
