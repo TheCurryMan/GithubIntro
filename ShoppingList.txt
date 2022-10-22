@@ -15,6 +15,7 @@ Juice
 Coconuts
 Cranberries
 Chocolate
+Vanilla
 Icecream
 Blueberries
 Blue Bananas
