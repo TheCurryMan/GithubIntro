@@ -1,6 +1,6 @@
 Shopping List:
 
-Apples
+
 Oranges
 Bananas
 Cherries
@@ -19,3 +19,4 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Red Apples
