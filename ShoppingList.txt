@@ -20,6 +20,3 @@ Blue Bananas
 Mangos
 Lychee
 potato
-hello
-my name is rikin
-i am 18
