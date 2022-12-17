@@ -1,2 +1,2 @@
-# GithubIntro
-A basic introduction to teaching Git and GitHub
+# Forking Demo
+Forking of a repository.
