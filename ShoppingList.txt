@@ -3,10 +3,7 @@ Shopping List:
 Apples
 Oranges
 Bananas
-Cherries
-Carrots
-Cereal
-Cucumbers
+CfoodWasDeleted
 Eggplants
 English Walnuts
 Garbanzo Beans
