@@ -1,2 +1,2 @@
-# GithubIntro
-A basic introduction to teaching Git and GitHub
+Shreyansh [mr-shreyansh]
+(http://github.com/mr-shreyansh)
