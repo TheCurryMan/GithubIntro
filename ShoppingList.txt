@@ -1,5 +1,6 @@
 Shopping List:
 
+Wallmart:
 Apples
 Oranges
 Bananas
@@ -7,6 +8,8 @@ Cherries
 Carrots
 Cereal
 Cucumbers
+
+Farmers Market:
 Eggplants
 English Walnuts
 Garbanzo Beans
