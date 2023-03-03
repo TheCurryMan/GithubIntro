@@ -7,15 +7,18 @@ Cherries
 Carrots
 Cereal
 Cucumbers
-Eggplants
+Eggs
 English Walnuts
 Garbanzo Beans
 Avocado
 Juice
 Walnuts
 Cranberries
-Chocolate
+fruitjuice
 Blueberries
 Blue Bananas
 Mangos
 Lychee
+nut butter
+watermelon
+vegetables
