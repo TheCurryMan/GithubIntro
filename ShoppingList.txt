@@ -1,21 +1,23 @@
 Shopping List:
 
 Apples
-Oranges
+Avocado
 Bananas
-Cherries
+Blueberries
+Blue Bananas
 Carrots
 Cereal
+Cherries
+Chocolate
+Cranberries
 Cucumbers
 Eggplants
 English Walnuts
 Garbanzo Beans
-Avocado
+Jackfruit
 Juice
-Walnuts
-Cranberries
-Chocolate
-Blueberries
-Blue Bananas
-Mangos
+Oranges
+Passion fruit
 Lychee
+Mangos
+Walnuts
