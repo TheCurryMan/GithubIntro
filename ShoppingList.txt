@@ -1,9 +1,8 @@
-Shopping List:
+ Shopping List:
 
 Apples
 Oranges
 Bananas
-Cherries
 Carrots
 Cereal
 Cucumbers
@@ -19,3 +18,4 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Lemons
