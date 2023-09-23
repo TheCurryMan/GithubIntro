@@ -6,7 +6,6 @@ Bananas
 Cherries
 Carrots
 Cereal
-Cucumbers
 Eggplants
 English Walnuts
 Garbanzo Beans
@@ -19,3 +18,4 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+peaches
