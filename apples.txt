@@ -1,2 +1,2 @@
-Fuji
-Gala
+This is just some filler file, don't worry about it.
+Edit if you want to of course
