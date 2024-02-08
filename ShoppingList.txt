@@ -22,3 +22,4 @@ Mangos
 Lychee
 Guava
 Sweet lemon
+jackfruit
