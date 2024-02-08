@@ -1,5 +1,6 @@
 Shopping List:
-
+sweet corn
+Water Melon
 Apples
 Oranges
 Bananas
@@ -19,3 +20,5 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Guava
+Sweet lemon
