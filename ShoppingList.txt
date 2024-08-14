@@ -7,7 +7,7 @@ Cherries
 Carrots
 Cereal
 Cucumbers
-Eggplants
+Plants
 English Walnuts
 Garbanzo Beans
 Avocado
@@ -19,3 +19,5 @@ Blueberries
 Blue Bananas
 Mangos
 Lychee
+Watermelon
+Raisins
