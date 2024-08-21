@@ -17,5 +17,7 @@ Cranberries
 Chocolate
 Blueberries
 Blue Bananas
+Red Bananas
+Green Bananas
 Mangos
 Lychee
