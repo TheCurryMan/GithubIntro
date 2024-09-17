@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>JavaScript Classes</h1>
+<p>Creating two Student objects from a Student class:</p>
+
+<p id="demo"></p>
+<p id="demo1"></p>
+<script>
+class Student {
+  constructor(name, course,rollno,YearR) {
+    this.name = name;
+    this.course = course;
+    this.rollno=rollno;
+    this.YearR=YearR;
+  }
+
+age(){
+    const date = new Date();
+    return date.getFullYear() - this.YearR;
+  }
+}
+
+
+
+const stud1 = new Student("raj","CSE","20b81a0567",2020);
+const stud2 = new Student("madhuri","CSE","20b81a0568",2018);
+const stud3 = new Student("akash","CSE","20b81a0569",2020);
+const stud4 = new Student("kalpana","CSE","20b81a0570",2019);
+
+document.getElementById("demo").innerHTML =
+stud1.name + " " + stud2.name+" "+stud3.name+" "+stud4.name;
+
+document.getElementById("demo1").innerHTML =
+"How old each student is "+stud1.age() +" "+ stud2.age()+" "+stud3.age()+" "+stud4.age();
+
+</script>
+
+</body>
+</html>
