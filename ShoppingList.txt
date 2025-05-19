@@ -1,5 +1,6 @@
 Shopping List:
 
+Produce-
 Apples
 Oranges
 Bananas
@@ -8,14 +9,25 @@ Carrots
 Cereal
 Cucumbers
 Eggplants
-English Walnuts
-Garbanzo Beans
 Avocado
-Juice
-Walnuts
 Cranberries
-Chocolate
 Blueberries
 Blue Bananas
 Mangos
 Lychee
+
+Canned Goods-
+Garbanzo Beans
+
+Baking-
+Chocolate
+English Walnuts
+Walnuts
+
+Dairy-
+2% Milk
+Butter, Unsalted
+Eggs
+
+Other-
+Juice
