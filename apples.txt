@@ -1,2 +1,4 @@
 Fuji
 Gala
+gala2
+fuji2
