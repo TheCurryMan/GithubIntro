@@ -24,3 +24,4 @@ papaya
 pineapple
 spinach
 millets
+pomegranate
