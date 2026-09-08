@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping List</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            padding-top: 50px;
+        }
+
+        .container {
+            background-color: white;
+            width: 400px;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .input-area {
+            display: flex;
+            gap: 10px;
+        }
+
+        input {
+            flex: 1;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        button {
+            padding: 10px 15px;
+            border: none;
+            background-color: #2e7d32;
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        button:hover {
+            background-color: #1b5e20;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+            margin-top: 20px;
+        }
+
+        li {
+            background-color: #eeeeee;
+            margin-bottom: 10px;
+            padding: 10px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-radius: 5px;
+        }
+
+        .delete-btn {
+            background-color: #c62828;
+        }
+
+        .delete-btn:hover {
+            background-color: #8e0000;
+        }
+
+        .completed {
+            text-decoration: line-through;
+            color: gray;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <h1>Shopping List</h1>
+
+        <div class="input-area">
+            <input
+                type="text"
+                id="itemInput"
+                placeholder="Enter an item"
+            >
+
+            <button onclick="addItem()">Add</button>
+        </div>
+
+        <ul id="shoppingList"></ul>
+
+    </div>
+
+    <script>
+        function addItem() {
+
+            const input = document.getElementById("itemInput");
+            const itemText = input.value.trim();
+
+            if (itemText === "") {
+                alert("Please enter an item.");
+                return;
+            }
+
+            const li = document.createElement("li");
+
+            const itemName = document.createElement("span");
+            itemName.textContent = itemText;
+
+            itemName.onclick = function () {
+                itemName.classList.toggle("completed");
+            };
+
+            const deleteButton = document.createElement("button");
+            deleteButton.textContent = "Delete";
+            deleteButton.className = "delete-btn";
+
+            deleteButton.onclick = function () {
+                li.remove();
+            };
+
+            li.appendChild(itemName);
+            li.appendChild(deleteButton);
+
+            document.getElementById("shoppingList").appendChild(li);
+
+            input.value = "";
+        }
+    </script>
+
+</body>
+</html>
